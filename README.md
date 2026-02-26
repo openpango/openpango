@@ -60,10 +60,6 @@ based in poland. mostly online. always building something.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=openpango&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
-
-<br><br>
-
 ![Pango's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=openpango&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117)
 
 <br>
