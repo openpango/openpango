@@ -1,123 +1,85 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=openpango&fontSize=90&fontAlignY=35&animation=fadeIn&desc=Building%20the%20future%20with%20AI%20and%20streetwear&descAlignY=55&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=280&section=header&text=Nikodem%20Lesiecki&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%20·%20Agents%20·%20Trading%20·%20Streetwear&descAlignY=55&descSize=18)
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+autonomous+AI+agents+🤖;Founder+of+renomé+streetwear+👕;Exploring+algorithmic+trading+📈;From+Kalisz,+Poland+🇵🇱&center=true&size=22&color=58a6ff&vCenter=true&pause=1000&width=500">
 
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!%20I'm%20Nikodem%20👋;AI%20Enthusiast%20💻;Streetwear%20Founder%20👕;Always%20learning%20📚&center=true&size=30">
-</h1>
+---
 
-<br>
+### 👋 About Me
 
-## 🧑‍💻 About Me
+I'm **Nikodem** — a 20-year-old builder from **Kalisz, Poland** working at the intersection of AI, automation, and creativity.
 
-```javascript
-const nikodem = {
-    location: "Kalisz, Poland 🇵🇱",
-    age: 20,
-    mission: "Building renomé — my own streetwear brand",
-    passions: ["AI", "Trading", "Streetwear", "Automation"],
-    currently: "Learning how AI can create money-making opportunities",
-    workspace: "MacBook Air M3, iPhone 15, AirPods Pro",
-    funFact: "I play squash every Friday at 8 AM 🏸"
-};
+- 🤖 **Building multi-agent AI systems** — I run a personal AI team: *Samantha* (coding agent), *Tao* (monitoring agent), powered by [OpenClaw](https://github.com/nicobailon/openclaw)
+- 👕 **Founding [renomé](https://github.com/openpango)** — a streetwear brand blending fashion with tech culture
+- 📈 **Exploring algorithmic trading** — researching automated strategies with AI
+- 🧩 **Developing MCP servers & agent skills** — extending what autonomous agents can do
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" />
+</p>
+
+**Domains:** AI Agents · MCP Protocol · LLM Orchestration · Trading Bots · Full-Stack Dev
+
+---
+
+### 🚀 Current Projects
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  renomé          Streetwear brand — design to launch    │
+│  AI Agent Team   Multi-agent system (Samantha + Tao)    │
+│  Trading Bot     Algorithmic strategies with AI         │
+│  MCP Skills      Custom agent skills & tool servers     │
+└─────────────────────────────────────────────────────────┘
 ```
 
-<br>
+---
 
-## 🚀 What I'm Working On
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| **renomé** 🎨 | My streetwear clothing brand | `In Progress` |
-| **AI Trading Bot** 🤖 | Automated trading strategies | `Researching` |
-| **Multi-Agent System** 🐾 | Pango, Samantha & Tao — my AI team | `Active` |
-
-<br>
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</p>
-
-<br>
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=openpango&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=openpango&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=openpango&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=openpango&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117"/>
 </div>
 
-<br>
-
-## 🔥 Streak Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=openpango&theme=tokyonight" alt="openpango streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=openpango&theme=github-dark-blue&hide_border=true&background=0d1117" />
 </p>
 
-<br>
+---
 
-## 🌐 Connect With Me
+### 🌐 Connect
 
 <p align="center">
   <a href="mailto:openpango@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-openpango@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/openpango">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-openpango-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
-<br>
-
-## 💭 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<br>
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openpango/openpango/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openpango/openpango/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/openpango/openpango/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br>
+---
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer)
 
-**Thanks for visiting!** ⭐️
+<sub>*"Build things that outlast you."*</sub>
 
 </div>
-
-<!--
-**openpango/openpango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
